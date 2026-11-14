@@ -1,5 +1,6 @@
-# Online Books Store: SQL Analysis
+![Sales by customer](query1-sales-by-customer.png)
 
+# Online Books Store: SQL Analysis
 ## Project Overview
 SQL analysis of an online books store's data, to find out which customers and books bring in the most sales.
 This project was completed as part of the Data Analyst course at IT Vedant.
